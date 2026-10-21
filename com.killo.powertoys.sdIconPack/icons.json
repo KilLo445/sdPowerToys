@@ -1,10 +1,5 @@
 [
     {
-        "path": "CursorHide.png",
-        "name": "Cursor Hide",
-        "tags": []
-    },
-    {
         "path": "Advanced.png",
         "name": "Advanced",
         "tags": []
@@ -42,6 +37,11 @@
     {
         "path": "Crop And Lock.png",
         "name": "Crop And Lock",
+        "tags": []
+    },
+    {
+        "path": "CursorHide.png",
+        "name": "Cursor Hide",
         "tags": []
     },
     {
