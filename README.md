@@ -25,7 +25,7 @@ To get started, choose a method below.
 
 1. Go to the [latest release](https://github.com/KilLo445/sdPowerToys/releases/latest), scroll down and select **Assets** to reveal the installation files, and download com.killo.powertoys.streamDeckIconPack
 
-2. Double-clicking the .streamDeckIconPack file should automatically open the Elgato Stream Deck software and install the icon pack.
+2. Double-clicking the .streamDeckIconPack file should automatically open the Elgato Stream Deck software and install the icon pack
 
 </details>
 
