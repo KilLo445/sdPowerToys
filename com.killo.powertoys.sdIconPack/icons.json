@@ -1,0 +1,202 @@
+[
+    {
+        "path": "CursorHide.png",
+        "name": "Cursor Hide",
+        "tags": []
+    },
+    {
+        "path": "Advanced.png",
+        "name": "Advanced",
+        "tags": []
+    },
+    {
+        "path": "AdvancedPaste.png",
+        "name": "Advanced Paste",
+        "tags": []
+    },
+    {
+        "path": "Always On Top.png",
+        "name": "Always On Top",
+        "tags": []
+    },
+    {
+        "path": "Awake.png",
+        "name": "Awake",
+        "tags": []
+    },
+    {
+        "path": "Color Picker.png",
+        "name": "Color Picker",
+        "tags": []
+    },
+    {
+        "path": "Command Not Found.png",
+        "name": "Command Not Found",
+        "tags": []
+    },
+    {
+        "path": "Command Palette.png",
+        "name": "Command Palette",
+        "tags": []
+    },
+    {
+        "path": "Crop And Lock.png",
+        "name": "Crop And Lock",
+        "tags": []
+    },
+    {
+        "path": "CursorWrap.png",
+        "name": "Cursor Wrap",
+        "tags": []
+    },
+    {
+        "path": "Environment Manager.png",
+        "name": "Environment Manager",
+        "tags": []
+    },
+    {
+        "path": "FancyZones.png",
+        "name": "Fancy Zones",
+        "tags": []
+    },
+    {
+        "path": "File Explorer Preview.png",
+        "name": "File Explorer Preview",
+        "tags": []
+    },
+    {
+        "path": "File Locksmith.png",
+        "name": "File Locksmith",
+        "tags": []
+    },
+    {
+        "path": "Find My Mouse.png",
+        "name": "Find My Mouse",
+        "tags": []
+    },
+    {
+        "path": "GrabAndMove.png",
+        "name": "Grab And Move",
+        "tags": []
+    },
+    {
+        "path": "Host File Editor.png",
+        "name": "Host File Editor",
+        "tags": []
+    },
+    {
+        "path": "Image Resizer.png",
+        "name": "Image Resizer",
+        "tags": []
+    },
+    {
+        "path": "Keyboard Manager.png",
+        "name": "Keyboard Manager",
+        "tags": []
+    },
+    {
+        "path": "Light Switch.png",
+        "name": "Light Switch",
+        "tags": []
+    },
+    {
+        "path": "MeasureTool.png",
+        "name": "Measure Tool",
+        "tags": []
+    },
+    {
+        "path": "Mouse Crosshairs.png",
+        "name": "Mouse Crosshairs",
+        "tags": []
+    },
+    {
+        "path": "Mouse Highlighter.png",
+        "name": "Mouse Highlighter",
+        "tags": []
+    },
+    {
+        "path": "MouseJump.png",
+        "name": "Mouse Jump",
+        "tags": []
+    },
+    {
+        "path": "MouseUtils.png",
+        "name": "Mouse Utils",
+        "tags": []
+    },
+    {
+        "path": "MouseWithoutBorders.png",
+        "name": "Mouse Without Borders",
+        "tags": []
+    },
+    {
+        "path": "NewPlus.png",
+        "name": "New Plus",
+        "tags": []
+    },
+    {
+        "path": "Peek.png",
+        "name": "Peek",
+        "tags": []
+    },
+    {
+        "path": "PowerAccent.png",
+        "name": "Power Accent",
+        "tags": []
+    },
+    {
+        "path": "PowerDisplay.png",
+        "name": "Power Display",
+        "tags": []
+    },
+    {
+        "path": "PowerOCR.png",
+        "name": "Power OCR",
+        "tags": []
+    },
+    {
+        "path": "PowerRename.png",
+        "name": "Power Rename",
+        "tags": []
+    },
+    {
+        "path": "PowerToys Run.png",
+        "name": "PowerToys Run",
+        "tags": []
+    },
+    {
+        "path": "Registry Preview.png",
+        "name": "Registry Preview",
+        "tags": []
+    },
+    {
+        "path": "Shortcut Guide.png",
+        "name": "Shortcut Guide",
+        "tags": []
+    },
+    {
+        "path": "Video Conference Mute.png",
+        "name": "Video Conference Mute",
+        "tags": []
+    },
+    {
+        "path": "WindowingAndLayouts.png",
+        "name": "Windowing And Layouts",
+        "tags": []
+    },
+    {
+        "path": "Workspaces.png",
+        "name": "Workspaces",
+        "tags": []
+    },
+    {
+        "path": "ZoomIt.png",
+        "name": "Zoom It",
+        "tags": []
+    },
+    {
+        "path": "2160x2160.png",
+        "name": "PowerToys",
+        "tags": []
+    }
+]
